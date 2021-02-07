@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/English-word-learning-dashboard/static/css/main.f630aaac.chunk.css",
+    "main.js": "/English-word-learning-dashboard/static/js/main.31f21f96.chunk.js",
+    "main.js.map": "/English-word-learning-dashboard/static/js/main.31f21f96.chunk.js.map",
+    "runtime-main.js": "/English-word-learning-dashboard/static/js/runtime-main.910cefb7.js",
+    "runtime-main.js.map": "/English-word-learning-dashboard/static/js/runtime-main.910cefb7.js.map",
+    "static/js/2.4b4828b5.chunk.js": "/English-word-learning-dashboard/static/js/2.4b4828b5.chunk.js",
+    "static/js/2.4b4828b5.chunk.js.map": "/English-word-learning-dashboard/static/js/2.4b4828b5.chunk.js.map",
+    "index.html": "/English-word-learning-dashboard/index.html",
+    "static/css/main.f630aaac.chunk.css.map": "/English-word-learning-dashboard/static/css/main.f630aaac.chunk.css.map",
+    "static/js/2.4b4828b5.chunk.js.LICENSE.txt": "/English-word-learning-dashboard/static/js/2.4b4828b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.910cefb7.js",
+    "static/js/2.4b4828b5.chunk.js",
+    "static/css/main.f630aaac.chunk.css",
+    "static/js/main.31f21f96.chunk.js"
+  ]
+}
